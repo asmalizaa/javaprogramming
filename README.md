@@ -4,4 +4,3 @@
 
 ```java
 import java.util.*;
-```java
